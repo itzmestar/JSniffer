@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-packetfactory-static-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-packetfactory-propertiesbased-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/logback-classic-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/logback-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-1.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-core-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-packettest-1.7.2-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/pcap4j-distribution-1.7.2-bin/pcap4j-sample-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/java_lib_jars/jna-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
