@@ -2,7 +2,10 @@
 Java packet sniffing tool -> 
 It captures packets on network interface for a given time (sec) provided as argument & displays the basic info about the packet in Java Table GUI.
 
-Example use of pcap4j libraries.
+Example use of `pcap4j` libraries.
+
+## Generated GUI:
+![Jsniffer](jsniffer.JPG)
 
 Following external libararies are required:
 
